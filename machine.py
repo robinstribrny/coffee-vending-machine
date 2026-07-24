@@ -62,7 +62,7 @@ def coins():
     return money_in
 
 # ================ Coffee preparing function, handles resources, =========================
-# ================ choices and side scenarios such as lack of money etc. =================
+# ================ choices and side scenarios such as lack of ingredients =================
 
 def main(menu, resources, choice):
     global wallet
